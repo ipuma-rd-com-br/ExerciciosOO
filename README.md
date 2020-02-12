@@ -60,10 +60,19 @@ Uma caneta tem material de plástico e escreve com tinta. Um lápis tem material
 
 Crie 3 classes: Caneta, Lapis e PenaMosquito, cada um com o atributo material, que deve ser fixo, ou seja, canetas são de plastico, lapis são de madeira e penas-mosquito são de metal, uma vez criado cada objeto, seu material nunca pode ser modificado.
 
-Cada classe deve implementar o método escrever(), que ao ser executado deve exibir no console o texto: "Escrevendo com "+<conteudo do atributo material>.
+Cada classe deve implementar o método escrever(), que ao ser executado deve exibir no console o texto: "Escrevendo com 'material definido no objeto' ".
 
 Se possível, use uma interface para definir o método escrever() a ser implementado por cada classe!
 
 Crie uma classe Exercicio05, com metodo "... main()", que deve instanciar um objeto de cada classe (Caneta, Lapis e PenaMosquito) e, para cada obejto, executar seu método escrever().
 
 
+<b>Exercício 06:</b>
+
+package exercicio06:
+
+Escreva uma classe chamada Exercicio06 com um método "... main()" que ao ser executado deve imprimir no console o seguinte:
+
+"Encapsulamento é (escreva o que é encapsulamento com suas próprias palavras)."
+
+"Polimorfismo é (escreva o que é polimorfismo com suas próprias palavras)."
