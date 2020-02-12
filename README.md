@@ -18,7 +18,7 @@ Defina também, na mesma package (diretório) uma classe Exercicio01, com um mé
 
 package exercicio02:
 
-Um triangulo é uma figura geométrica de 3 lados. Para calcular a área de um triângulo, basta multiplicar o valor do seu lado base com sua altura.
+Um triangulo é uma figura geométrica de 3 lados. Para calcular a área de um triângulo, basta multiplicar o valor do seu lado base com sua altura e dividir o resultado por 2.
 
 Defina uma classe Triangulo, com os atributos base e altura e com um método que retorna o valor da sua área.
 
