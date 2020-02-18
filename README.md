@@ -77,3 +77,12 @@ Escreva uma classe chamada Exercicio06 com um método "... main()" que ao ser ex
 "Encapsulamento é (escreva o que é encapsulamento com suas próprias palavras)."
 
 "Polimorfismo é (escreva o que é polimorfismo com suas próprias palavras)."
+
+
+<b>Exercício 07:</b>
+
+package exercicio07:
+
+Defina uma classe Veiculo com os atributos nome, número de rodas, capacidade do tanque de combustível (em litros) e consumo (Km por litro). Além disso, defina um método abastecer, que recebe a quantidade de combustível para encher o tanque; e um método para exibir a autonomia do veículo, ou seja, deve imprimir no console (sout) a distância que o veículo é capaz de rodar com o combustível existente no tanque.
+
+Por fim, defina uma classe Exercicio07, com método "main()", que instancie 2 veículos, com atributos de capacidade do tanque e consumo diferentes entre si, abasteça os veículos e, em seguida, exiba no console a autonomia de cada um.
