@@ -35,7 +35,7 @@ Nosso sistema vai realizar o controle de livros em uma biblioteca. A regra é qu
 
 Considerando essas premissas, crie uma classe Livro, com os atributos descritos acima, de tal forma que, uma vez criado um objeto de Livro, não se permita alterar seus atributos após a sua criação.
 
-Crie uma classe Exercicio03, com método "... main()", que instancia um objeto Livro e, após a instanciacao, tenta modificar o titulo do objeto livro sem sucesso, ou seja, o compilador tem que apontar erro na linha do comando em que o titulo do livro tenta ser modificado.
+Crie uma classe Exercicio03, com método "... main()", que instancia ao menos 3 objetos de Livro.
 
 
 <b>Exercício 04:</b>
@@ -83,6 +83,6 @@ Escreva uma classe chamada Exercicio06 com um método "... main()" que ao ser ex
 
 package exercicio07:
 
-Defina uma classe Veiculo com os atributos nome, número de rodas, capacidade do tanque de combustível (em litros) e consumo (Km por litro). Além disso, defina um método abastecer, que recebe a quantidade de combustível para encher o tanque; e um método para exibir a autonomia do veículo, ou seja, deve imprimir no console (sout) a distância que o veículo é capaz de rodar com o combustível existente no tanque.
+Defina uma classe Veiculo com os atributos nome, número de rodas, capacidade do tanque de combustível (em litros) e consumo (Km por litro). Além disso, defina um método abastecer, que recebe a quantidade de combustível para encher o tanque; e um método para exibir a autonomia do veículo, ou seja, deve imprimir no console (System.out.println()) a distância que o veículo é capaz de rodar com o combustível existente no tanque.
 
 Por fim, defina uma classe Exercicio07, com método "main()", que instancie 2 veículos, com atributos de capacidade do tanque e consumo diferentes entre si, abasteça os veículos e, em seguida, exiba no console a autonomia de cada um.
